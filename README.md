@@ -37,8 +37,26 @@ Estrutura de níveis
    - 9001–10000 → Imortal  
    - ≥ 10001 → Radiante
    `
+## Exemplos de uso
+
+### Exemplo 1
+$ npm start
+Digite o nome do herói: Arthemis
+O Herói de nome Arthemis está no nível de Ouro (XP: 5234)
+
+### Exemplo 2
+$ npm start
+Digite o nome do herói: Orion
+O Herói de nome Orion está no nível de Radiante (XP: 11045)
+
+### Example 3
+$ npm start
+Digite o nome do herói: Lyra
+O Herói de nome Lyra está no nível de Bronze (XP: 1450)
+
 
 ---
+
 
 # Hero Level Classifier Challenge
 
@@ -72,3 +90,22 @@ Level structure
    - 9001–10000 → Immortal  
    - ≥ 10001 → Radiant
    `
+---
+
+## Usage examples (English)
+
+### Example 1
+```bash
+$ npm start
+Enter the hero's name: Arthemis
+The Hero named Arthemis is at the Gold level (XP: 5234)
+
+### Example 2
+$ npm start
+Enter the hero's name: Orion
+The Hero named Orion is at the Radiant level (XP: 11045)
+
+### Example 3
+$ npm start
+Enter the hero's name: Lyra
+The Hero named Lyra is at the Bronze level (XP: 1450)
