@@ -81,6 +81,17 @@ Se você deseja melhorar este projeto, siga os passos abaixo:
 ## Licença
 Este projeto está licenciado sob os termos da licença MIT.
 
+-Objetivos do Curso
+
+Este projeto faz parte das atividades do bootcamp do curdo de Front-End da Platafoma Dio.me.  
+O objetivo principal é aplicar conceitos de lógica de programação em JavaScript, como:
+
+- Uso de variáveis e estruturas condicionais.
+- Manipulação de entrada e saída no terminal.
+- Implementação de regras de classificação com base em valores.
+- Organização do código em um projeto simples e funcional.
+
+Esse exercício ajuda a consolidar fundamentos essenciais para o desenvolvimento de software.
 
 # Hero Level Classifier Challenge
 
@@ -160,3 +171,14 @@ License (English)
 
 This project is licensed under the terms of the MIT license
 `
+Course Objectives (English)
+
+This project is part of the programming course activities.  
+The main goal is to apply programming logic concepts in JavaScript, such as:
+
+- Using variables and conditional structures.
+- Handling input and output in the terminal.
+- Implementing classification rules based on values.
+- Organizing code in a simple and functional project.
+
+This exercise helps reinforce essential foundations for software development.
