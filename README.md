@@ -56,7 +56,27 @@ O Herói de nome Lyra está no nível de Bronze (XP: 1450)
 
 
 ---
+---
 
+## Contribuição
+
+Contribuições são bem-vindas!  
+Se você deseja melhorar este projeto, siga os passos abaixo:
+
+1. Faça um fork do repositório.
+2. Crie uma branch para sua modificação:
+   ```bash
+   git checkout -b minha-modificacao
+3. Faça as alterações desejadas.
+4. Commit suas mudanças:
+   `bash
+   git commit -m "Descrição da modificação"
+   `
+5. Envie para sua branch:
+   `bash
+   git push origin minha-modificacao
+   `
+6. Abra um Pull Request neste repositório.
 
 # Hero Level Classifier Challenge
 
@@ -109,3 +129,25 @@ The Hero named Orion is at the Radiant level (XP: 11045)
 $ npm start
 Enter the hero's name: Lyra
 The Hero named Lyra is at the Bronze level (XP: 1450)
+
+Contribution (English)
+
+Contributions are welcome!  
+If you want to improve this project, follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your modification:
+   `bash
+   git checkout -b my-modification
+   `
+3. Make the desired changes.
+4. Commit your changes:
+   `bash
+   git commit -m "Description of modification"
+   `
+5. Push to your branch:
+   `bash
+   git push origin my-modification
+   `
+6. Open a Pull Request in this repository.
+`
