@@ -1,0 +1,25 @@
+{
+  "name": "desafio-classificador-nivel-heroi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Index.js",
+  "scripts": {
+    "start": "node Index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JucianaSoares/Desafio-Classificador-Nivel-Heroi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/JucianaSoares/Desafio-Classificador-Nivel-Heroi/issues"
+  },
+  "homepage": "https://github.com/JucianaSoares/Desafio-Classificador-Nivel-Heroi#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}

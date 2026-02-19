@@ -1,7 +1,8 @@
 // Desafio Classificador de nível de Herói - versão só com nome
+const readline = require("readline-sync");
 
-// Pede apenas o nome do herói
-let nomeHeroi = prompt("Digite o nome do herói:");
+// Pede o nome do herói
+   let nomeHeroi = readline.question("Digite o nome do herói: ");
 
 // Gera XP aleatório entre 0 e 12.000
 let xpHeroi = Math.floor(Math.random() * 12001);
