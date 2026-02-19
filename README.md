@@ -1,5 +1,10 @@
 # Desafio-Classificador-do-Nivel-do-Heroi
-# Desafio Classificador de Nível de Herói
+
+
+![Node.js Version](https://img.shields.io/badge/node-%3E%3D%2018-green)
+![License](https://img.shields.io/badge/license-ISC-blue)
+![GitHub last commit](https://img.shields.io/github/last-commit/JucianaSoares/Desafio-Classificador-Nivel-Heroi)
+![GitHub issues](https://img.shields.io/github/issues/JucianaSoares/Desafio-Classificador-Nivel-Heroi)
 
 Este projeto foi desenvolvido como parte de um desafio de lógica de programação em JavaScript.
 
