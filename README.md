@@ -83,7 +83,7 @@ Este projeto está licenciado sob os termos da licença MIT.
 
 -Objetivos do Curso
 
-Este projeto faz parte das atividades do bootcamp do curdo de Front-End da Platafoma Dio.me.  
+Este projeto faz parte das atividades do bootcamp do curso de Front-End da Platafoma Dio.me.  
 O objetivo principal é aplicar conceitos de lógica de programação em JavaScript, como:
 
 - Uso de variáveis e estruturas condicionais.
