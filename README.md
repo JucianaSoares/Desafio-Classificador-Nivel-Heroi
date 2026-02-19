@@ -33,3 +33,37 @@ Estrutura de níveis
    - ≥ 10001 → Radiante
    `
 
+---
+
+# Hero Level Classifier Challenge
+
+This project was developed as part of a programming logic challenge in JavaScript.
+
+## How it works
+- The user enters the hero's name.
+- The program generates a random XP value between 0 and 12,000.
+- Based on the XP, the hero receives a level (Iron, Bronze, Silver, Gold, Platinum, Ascendant, Immortal, or Radiant).
+
+## Technologies used
+- Node.js
+- readline-sync (for terminal input)
+
+## How to run
+1. Install dependencies:
+   ```bash
+   npm install
+  2. Run the program:
+      `bash
+      npm start
+      `
+
+Level structure
+   - XP < 1000 → Iron  
+   - 1001–2000 → Bronze  
+   - 2001–5000 → Silver  
+   - 5001–7000 → Gold  
+   - 7001–8000 → Platinum  
+   - 8001–9000 → Ascendant  
+   - 9001–10000 → Immortal  
+   - ≥ 10001 → Radiant
+   `
