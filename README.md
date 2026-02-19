@@ -1,1 +1,35 @@
-# Desafio-Classificador-do-Her-i-
+# Desafio-Classificador-do-Nivel-do-Heroi
+# Desafio Classificador de Nível de Herói
+
+Este projeto foi desenvolvido como parte de um desafio de lógica de programação em JavaScript.
+
+## Como funciona
+- O usuário informa o nome do herói.
+- O programa gera um valor de XP aleatório entre 0 e 12.000.
+- Com base no XP, o herói recebe um nível (Ferro, Bronze, Prata, Ouro, Platina, Ascendente, Imortal ou Radiante).
+
+## Tecnologias utilizadas
+- Node.js
+- readline-sync (para entrada de dados no terminal)
+
+## Como executar
+1. Instale as dependências:
+   ```bash
+   npm install
+
+      2. Execute o programa:
+      `bash
+      npm start
+      `
+
+Estrutura de níveis
+   - XP < 1000 → Ferro  
+   - 1001–2000 → Bronze  
+   - 2001–5000 → Prata  
+   - 5001–7000 → Ouro  
+   - 7001–8000 → Platina  
+   - 8001–9000 → Ascendente  
+   - 9001–10000 → Imortal  
+   - ≥ 10001 → Radiante
+   `
+
