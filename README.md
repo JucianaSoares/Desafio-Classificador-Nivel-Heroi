@@ -78,6 +78,10 @@ Se você deseja melhorar este projeto, siga os passos abaixo:
    `
 6. Abra um Pull Request neste repositório.
 
+Este projeto atualmente não possui uma licença definida.  
+Isso significa que, por padrão, o código não pode ser copiado, modificado ou redistribuído sem autorização da autora.
+
+
 # Hero Level Classifier Challenge
 
 This project was developed as part of a programming logic challenge in JavaScript.
@@ -150,4 +154,10 @@ If you want to improve this project, follow these steps:
    git push origin my-modification
    `
 6. Open a Pull Request in this repository.
+`
+
+License (English)
+
+This project currently does not have a defined license.  
+By default, this means the code cannot be copied, modified, or redistributed without the author's permission.
 `
