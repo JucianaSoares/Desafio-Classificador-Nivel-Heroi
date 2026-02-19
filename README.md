@@ -78,8 +78,8 @@ Se você deseja melhorar este projeto, siga os passos abaixo:
    `
 6. Abra um Pull Request neste repositório.
 
-Este projeto atualmente não possui uma licença definida.  
-Isso significa que, por padrão, o código não pode ser copiado, modificado ou redistribuído sem autorização da autora.
+## Licença
+Este projeto está licenciado sob os termos da licença MIT.
 
 
 # Hero Level Classifier Challenge
@@ -158,6 +158,5 @@ If you want to improve this project, follow these steps:
 
 License (English)
 
-This project currently does not have a defined license.  
-By default, this means the code cannot be copied, modified, or redistributed without the author's permission.
+This project is licensed under the terms of the MIT license
 `
